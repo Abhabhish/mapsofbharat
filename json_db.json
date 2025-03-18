@@ -1,0 +1,362 @@
+[
+    {
+        "state": "Jharkhand",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Jharkhand.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Jharkhand.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Jharkhand.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Jharkhand Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Jharkhand_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Jharkhand_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Jharkhand_Villages_Towns.geojson"
+    },
+    {
+        "state": "Lakshadweep",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Lakshadweep.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Lakshadweep.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Lakshadweep.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Lakshadweep Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Lakshadweep_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Lakshadweep_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Lakshadweep_Villages_Towns.geojson"
+    },
+    {
+        "state": "Madhya Pradesh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Madhya Pradesh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Madhya Pradesh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Madhya Pradesh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Madhya Pradesh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Madhya_Pradesh_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Madhya _Pradesh_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Madhya _Pradesh_Villages_Towns.geojson"
+    },
+    {
+        "state": "Rajasthan",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Rajasthan.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Rajasthan.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Rajasthan.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Rajasthan Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Rajasthan_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Rajasthan_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Rajasthan_Villages_Towns.geojson"
+    },
+    {
+        "state": "Telangana",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Telangana.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Telangana.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Telangana.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Telangana Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Telangana_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Telangana_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Telangana_Villages_Towns.geojson"
+    },
+    {
+        "state": "Maharashtra",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Maharashtra.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Maharashtra.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Maharashtra.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Maharashtra Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Maharashtra_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Maharashtra_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Maharashtra_Villages_Towns.geojson"
+    },
+    {
+        "state": "West Bengal",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/West Bengal.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/West Bengal.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/West Bengal.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/West Bengal Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/West_Bengal_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/West_Bengal_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/West_Bengal_Villages_Towns.geojson"
+    },
+    {
+        "state": "Goa",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Goa.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Goa.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Goa.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Goa Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Goa_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Goa_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Goa_Villages_Towns.geojson"
+    },
+    {
+        "state": "Dadra & Nagar Haveli And Daman & Diu",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Dadra & Nagar Haveli and Daman & Diu.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Dadra & Nagar Haveli and Daman & Diu.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Dadra & Nagar Haveli and Daman & Diu.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Dadra & Nagar Haveli and Daman & Diu Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Dadra_&_Nagar_Haveli_and_Daman_&_Diu_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Dadra_&_Nagar_Haveli_and_Daman_&_Diu_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Dadra_&_Nagar_Haveli_and_Daman_&_Diu_Villages_Towns.geojson"
+    },
+    {
+        "state": "Bihar",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Bihar.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Bihar.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Bihar.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Bihar Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Bihar_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Bihar_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Bihar_Villages_Towns.geojson"
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Arunachal Pradesh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Arunachal Pradesh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Arunachal Pradesh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Arunachal Pradesh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Arunachal_Pradesh_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Arunachal_Pradesh_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Arunachal_Pradesh_Villages_Towns.geojson"
+    },
+    {
+        "state": "Puducherry",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Puducherry.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Puducherry.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Puducherry.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Puducherry Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Puducherry_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Puducherry_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Puducherry_Villages_Towns.geojson"
+    },
+    {
+        "state": "Gujarat",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Gujarat.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Gujarat.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Gujarat.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Gujarat Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Gujarat_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Gujarat_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Gujarat_Villages_Towns.geojson"
+    },
+    {
+        "state": "Ladakh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Ladakh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Ladakh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Ladakh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Ladakh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Ladkh_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Ladakh_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Ladakh_Villages_Towns.geojson"
+    },
+    {
+        "state": "Chandigarh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Chandigarh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Chandigarh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Chandigarh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Chandigarh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Chandigarh_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Chandigarh_GP_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Chandigarh_Villages_Towns_GP.geojson"
+    },
+    {
+        "state": "Haryana",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Haryana.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Haryana.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Haryana.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Haryana Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Haryana_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Haryana_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Haryana_Villages_Towns.geojson"
+    },
+    {
+        "state": "Tamil Nadu",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Tamil Nadu.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Tamil Nadu.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Tamil Nadu.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Tamilnadu Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Tamilnadu_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Tamilnadu_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Tamilnadu_Villages_Towns.geojson"
+    },
+    {
+        "state": "Jammu & Kashmir",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Jammu & Kashmir.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Jammu & Kashmir.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Jammu & Kashmir.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Jammu & Kashmir Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Jammu_Kashmir_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Jammu_Kashmir_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Jammu_Kashmir_Villages_Towns.geojson"
+    },
+    {
+        "state": "Nagaland",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Nagaland.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Nagaland.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Nagaland.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Nagaland Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Nagaland_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Nagaland_GP_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Nagaland_Villages_Towns_GP.geojson"
+    },
+    {
+        "state": "Himachal Pradesh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Himachal Pradesh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Himachal Pradesh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Himachal Pradesh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Himachal Pradesh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Himachal_Pradesh.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Himachal_Pradesh_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Himachal_Pradesh_Villages_Towns.geojson"
+    },
+    {
+        "state": "Uttarakhand",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Uttarakhand.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Uttarakhand.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Uttarakhand.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Uttarakhand Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Uttarakhand_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Uttarakhand_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Uttarakhand_Villages_Towns.geojson"
+    },
+    {
+        "state": "Andhra Pradesh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Andhra Pradesh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Andhra Pradesh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Andhra Pradesh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Andhra Pradesh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Andhra_Pradesh_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Andhra_Pradesh_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Andhra_Pradesh_Villages_Towns.geojson"
+    },
+    {
+        "state": "Tripura",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Tripura.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Tripura.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Tripura.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Tripura Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Tripura_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Tripura_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Tripura_Villages_Towns.geojson"
+    },
+    {
+        "state": "Andaman & Nicobar Islands",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Andaman & Nicobar Islands.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Andaman & Nicobar Islands.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Andaman & Nicobar Islands.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Andaman & Nicobar Islands Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Andaman_Nicobar_Islands_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Andaman_Nicobar_Islands_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Andaman_Nicobar_Islands_Villages_Towns.geojson"
+    },
+    {
+        "state": "Meghalaya",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Meghalaya.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Meghalaya.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Meghalaya.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Meghalaya Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Meghalaya_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Meghalaya_GP_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Meghalaya_Villages_Towns_GP.geojson"
+    },
+    {
+        "state": "Mizoram",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Mizoram.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Mizoram.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Mizoram.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Mizoram Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Mizoram_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Mizoram_GP_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Mizoram_Villages_Towns_GP.geojson"
+    },
+    {
+        "state": "Karnataka",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Karnataka.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Karnataka.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Karnataka.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Karnataka Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Karnataka_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Karnataka_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Karnataka_Villages_Towns.geojson"
+    },
+    {
+        "state": "Nct of Delhi",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Nct of Delhi.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Nct of Delhi.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Nct of Delhi.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Nct of Delhi Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/NCT_of_Delhi_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/NCT_of_Delhi_GP_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/NCT_of_Delhi_Villages_Towns_GP.geojson"
+    },
+    {
+        "state": "Sikkim",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Sikkim.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Sikkim.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Sikkim.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Sikkim Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Sikkim_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Sikkim_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Sikkim_Villages_Towns.geojson"
+    },
+    {
+        "state": "Chhattisgarh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Chhattisgarh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Chhattisgarh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Chhattisgarh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Chhattisgarh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Chhattisgarh_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Chhattisgarh_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Chhattisgarh_Villages_Towns.geojson"
+    },
+    {
+        "state": "Odisha",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Odisha.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Odisha.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Odisha.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Odisha Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Odisha_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Odisha_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Odisha_Villages_Towns.geojson"
+    },
+    {
+        "state": "Assam",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Assam.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Assam.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Assam.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Assam Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Assam_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Assam_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Assam_Villages_Towns.geojson"
+    },
+    {
+        "state": "Uttar Pradesh",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Uttar Pradesh.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Uttar Pradesh.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Uttar Pradesh.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Uttar Pradesh Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Uttar_Pradesh_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Uttar_Pradesh_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Uttar_Pradesh_Villages_Towns.geojson"
+    },
+    {
+        "state": "Punjab",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Punjab.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Punjab.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Punjab.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Punjab Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Punjab_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Punjab_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Punjab_Villages_Towns.geojson"
+    },
+    {
+        "state": "Manipur",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Manipur.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Manipur.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Manipur.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Manipur Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Manipur_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Manipur_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Manipur_Villages_Towns.geojson"
+    },
+    {
+        "state": "Kerala",
+        "state_geojson": " /home/abhishek/Downloads/mapsofbharat/GeoJSON/1State Boundary/Kerala.geojson",
+        "district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/2District Boundary/Kerala.geojson",
+        "sub_district_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/3Sub District Boundary/Kerala.geojson",
+        "block_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/4Block Boundary/Kerala Block Boundary.geojson",
+        "pincode_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/5Pincode Boundary/Kerala_Pincodes.geojson",
+        "gram_panchayat_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/6Gram Panchayat Boundary/Kerala_GP.geojson",
+        "town_village_geojson": "/home/abhishek/Downloads/mapsofbharat/GeoJSON/7Villages Town/Kerala_Villages_Towns.geojson"
+    }
+]

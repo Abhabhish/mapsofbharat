@@ -1,0 +1,18 @@
+{% extends "authentication/base.html" %}
+
+{% block title %}Login {% endblock %}
+
+{% block content %}
+<form method="post" action="{% url 'login' %}">
+    {% for message in messages %}
+    <div class="message {{message.tags}}">
+        {{message}}
+    </div>
+    {% endfor %}
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" >Login</button>
+    <a href="{% url 'password_reset' %}">Lost Password?</a><br>
+    <a href="{% url 'register' %}">New User?</a>
+</form>
+{% endblock %}
