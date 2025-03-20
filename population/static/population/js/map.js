@@ -10,7 +10,3 @@ tileLayer.addTo(map)
 zControls = L.control.zoom({position: 'bottomright'})
 
 zControls.addTo(map)
-
-
-
-

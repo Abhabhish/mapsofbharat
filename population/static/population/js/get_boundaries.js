@@ -3,12 +3,12 @@ function getCSRFToken() {
     return csrfToken ? csrfToken.split('=')[1] : null;
 }
 
+
 fetch(geojsonUrl)
     .then(response => {
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        console.log('1-geojson fetched')
         return response.json();
     })
     .then(geojsonData => {
@@ -20,7 +20,6 @@ fetch(geojsonUrl)
                 );
             })
         };
-        console.log('2-data filtered')
 
         const stateBounds = L.geoJSON(filteredGeojson).getBounds();
         map.fitBounds(stateBounds);
@@ -40,13 +39,12 @@ fetch(geojsonUrl)
         colorRanges = rawData['color_ranges']
         filteredData = rawData['filtered_data']
         responseData = {}
-        console.log("3-got_response")
 
         for (let entry of filteredData) {            
             let key = Object.entries(extraFields).map(([key, property]) => entry[key] || "").join("|");
             let _sum = entry.population_sum;
             let color = "gray";
-            let value_range = "range not exists";    
+            let value_range = "range not exists";
             for (let range of colorRanges) {
                 if (_sum >= range.start && _sum <= range.end) {
                     color = range.color;
@@ -61,7 +59,6 @@ fetch(geojsonUrl)
             };
         }
 
-        console.log('4-responseData dict created')
 
 
         L.geoJSON(filteredGeojson, {
@@ -87,9 +84,8 @@ fetch(geojsonUrl)
                 });
             }
         }).addTo(map);
-        console.log('5-popups added')
         addAllDataToRightPanel(responseData);
-        console.log('6-table added to right panel')
+        
     })
     .catch(error => console.error("Error loading GeoJSON:", error));
 

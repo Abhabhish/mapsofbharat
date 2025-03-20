@@ -5,19 +5,31 @@ html{
 
 body{
     min-height: 100%;
-    background: linear-gradient(to bottom,transparent,rgb(117, 138, 202));
+    /* background: linear-gradient(to bottom,transparent,rgb(117, 138, 202)); */
+    background: url("/static/authentication/img/image.png") no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
 }
 
-form{
-    background-color: white;
-    border-radius: 5%;
+
+
+form {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 15%;
     padding: 2rem;
     font-weight: 700;
-    box-shadow: 0 0 10px,rgba(0, 0, 0, 0.3);
     max-width: fit-content;
-    margin: 0 auto;
     width: 600px;
+    
+    margin-left: auto;
+    margin-right: 2rem;
+    margin-top: 2rem;
 }
+
+
+
+
 
 form input,
 form select,

@@ -164,7 +164,7 @@ def get_town_villages(request):
     geojson = Geojson.objects.filter(state_name=state).first()
     with geojson.town_village_geojson.open('r') as file:
         geojson_data = json.load(file)
-    town_villages = [feature['properties']['GP_NAME']  for feature in geojson_data['features'] if (feature['properties']['STATE_NAME'].lower()==state.lower()) and (feature['properties']['DIST_NAME'].lower()==district.lower()) and (feature['properties']['SUB_DIST_N'].lower()==sub_district.lower()) and (feature['properties']['BLOCK_NAME'].lower()==block.lower()) and (feature['properties']['PINCODE'].lower()==pincode.lower()) and (feature['properties']['GP_NAME'].lower()==gram_panchayat.lower())]
+    town_villages = [feature['properties']['NAME']  for feature in geojson_data['features'] if (feature['properties']['STATE_NAME'].lower()==state.lower()) and (feature['properties']['DIST_NAME'].lower()==district.lower()) and (feature['properties']['SUB_DIST_N'].lower()==sub_district.lower()) and (feature['properties']['BLOCK_NAME'].lower()==block.lower()) and (feature['properties']['PINCODE'].lower()==pincode.lower()) and (feature['properties']['GP_NAME'].lower()==gram_panchayat.lower())]
     unique_town_villages = list(set(town_villages))
     return JsonResponse({'town_villages': unique_town_villages})
 
@@ -292,6 +292,8 @@ def get_extra_fields(request):
     }
     return boundary_name_vs_extra_fields[boundary]
 
+
+@login_required(login_url='login')
 def index(request):
     form = get_form_object(request)
     crf_form = ColorRangeFamilyForm()
